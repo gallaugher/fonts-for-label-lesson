@@ -1,3 +1,7 @@
+The YouTube lesson for this repo is at:
+https://youtu.be/-lrJ0fy0xm0?si=9HCbgmnwOycmiC4h
+
+
 This simply contains a fonts folder to be used with the CircuitPython School lesson:
 "Writing to Displays in CircuitPython with displayio & Label"
 Lesson can be found in the playlists:
